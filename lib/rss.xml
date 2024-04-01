@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[vault]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>vault</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 01 Apr 2024 12:13:42 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 01 Apr 2024 12:13:41 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[💡현장노트]]></title><description><![CDATA[<a class="tag" href="?query=tag:2024컴퓨터프로그래밍" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#2024컴퓨터프로그래밍</a> <a class="tag" href="?query=tag:컴퓨터구조" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#컴퓨터구조</a> 
+ <br><br><br>
+<br>2장 데이터 표현
+<br>정수-&gt;2진수 음수-&gt; 32비트 음의 실수 -&gt;32비트
+<br>3장 논리게이트
+<br>nand, ...
+<br>논리식 간략화 kmap
+<br>플립플롭
+<br>회로그리기
+<br>시험은 조합논리회로까지
+<br>순차논리회로 x (2차 평가)
+<br><br>
+<br>회로를 그리시오 (시험문제)
+<br>cpu(연산장치)에 들어가는 것
+<br>1비트끼리 연산 하는 것
+<br>시험에 진리표를 주면 진리표를 가지고 회로를 만드는데 최소한의 회로로 (k-map을 타고 회로 작성해야됨) 
+<br><br>
+<br>
+
+
+<br>1. 기능을 먼저 쓰고
+
+<br><img alt="스크린샷 2024-04-01 오후 4.37.29.png" src="lib/media/스크린샷-2024-04-01-오후-4.37.29.png">
+
+
+<br>2. 진리표 만들기
+
+<br><img alt="스크린샷 2024-04-01 오후 4.37.10.png" src="lib/media/스크린샷-2024-04-01-오후-4.37.10.png">
+<br>입력 2, 출력 2 (sum, carry)
+
+
+<br>3. 회로
+
+<br>출력이 1인 경우만 봄 (2,3)
+
+<br>논리식
+<br>S = a바b + ab바
+
+<br>and 2개, or 한개, not 두개 -&gt; 전체회로 5개 필요
+
+
+<br>C = AB
+
+<br>and한개 필요
+
+
+
+
+<br>총 6개 필요 (XOR 사용 -&gt; 3개)
+
+<br><img alt="스크린샷 2024-04-01 오후 4.43.21.png" src="lib/media/스크린샷-2024-04-01-오후-4.43.21.png">
+
+
+
+
+
+
+<br>
+
+
+<br>half-adder: 2비트 덧셈엔 입력이 3개필요<br>
+-&gt; carry하나 더 추가
+<br><img alt="스크린샷 2024-04-01 오후 4.47.46.png" src="lib/media/스크린샷-2024-04-01-오후-4.47.46.png">
+
+
+<br>
+
+
+<br><img alt="스크린샷 2024-04-01 오후 5.08.29.png" src="lib/media/스크린샷-2024-04-01-오후-5.08.29.png">
+<br>4비트 연산 시에 1비트 가산기 4개를 붙인 것
+<br>64비트 연산 원하면 64개 붙이면됨 (combinational circuit)
+
+
+<br>
+
+
+<br><img alt="스크린샷 2024-04-01 오후 5.19.37.png" src="lib/media/스크린샷-2024-04-01-오후-5.19.37.png">
+<br>입력이 두개 들어갔는데 출력이 4개 나옴 -&gt; 디코더
+
+
+<br>
+
+
+<br>입력이 2의n승개가 들어오면 n개가 나가는 거
+
+<br>8개가 들어오면 3개가 나감
+<br>입력이 2개면 출력이 1개임
+
+
+
+
+<br>
+
+
+<br>인코더의 반대
+
+<br>3개가 들어갔는데 출력이 8개가 나옴
+
+
+
+
+<br>
+
+
+<br>무조건 출력이 1개
+
+
+<br>
+
+
+<br>1개가 들어가서 여러개가 나오는 것 (방화벽, 해저케이블등)
+
+
+<br>
+
+
+<br>1의 개수가 짝수면 하나 넣어줌
+<br>1의 개수가 홀수면 0
+<br>1의 개수를 홀수로 맞추는 것
+<br>1비트만 추가해서 변조 여부 확인 가능
+
+
+<br><br>
+<br>어떻게 회로를 줄일까 (묶는 과정을 통해)
+
+<br><img alt="스크린샷 2024-04-01 오후 4.43.05.png" src="lib/media/스크린샷-2024-04-01-오후-4.43.05.png">
+<br>회로를 줄이는 과정!
+
+<br>진리표를 작성하고 k-map을 그리면 회로가 줄어듬
+<br>맵을 작성하고 2, 4, 8 ...로 묶어서 (중복이 되더라도 크게 묶는 게 나음)
+
+
+
+
+<br>[! note] 감산기는 가산기로 함 (보수의 개념 이용)<br><a href=".?query=tag:2024컴퓨터프로그래밍" class="tag" target="_blank" rel="noopener">#2024컴퓨터프로그래밍</a> <a href=".?query=tag:컴퓨터구조" class="tag" target="_blank" rel="noopener">#컴퓨터구조</a><br><br><br><br>
+<br>출력 신호가 입력신호에 의해서만 결정
+<br>기본 논리 소자의 조합으로 구성 (AND, OR, NOT등)
+<br>기억 소자 (플립플롭 등) 포함 x
+<br><br> 조합 논리회로의 종류<br>
+<br>
+
+
+<br>2개 이상의 입력 이용 -&gt; 그 합 출력
+<br>
+
+
+<br>1비트인 입력 2개와 출력 2개의 합(S)과 자리 올림수(C)가 사용
+<br>
+
+
+<br><img alt="스크린샷 2024-04-01 오후 7.16.41.png" src="lib/media/스크린샷-2024-04-01-오후-7.16.41.png">
+<br>
+
+
+<br><img alt="스크린샷 2024-04-01 오후 7.17.26.png" src="lib/media/스크린샷-2024-04-01-오후-7.17.26.png">
+
+
+<br>
+
+
+<br><img alt="스크린샷 2024-04-01 오후 7.18.02.png" src="lib/media/스크린샷-2024-04-01-오후-7.18.02.png">
+
+
+<br>
+
+
+<br><img alt="스크린샷 2024-04-01 오후 7.18.20.png" src="lib/media/스크린샷-2024-04-01-오후-7.18.20.png">
+
+
+
+
+
+
+<br>
+
+
+<br>half-adder -&gt; 2비트 덧셈엔 입력이 3개필요
+<br>2진수 3개, 즉 입력 A, B와 하위 비트에서 발생한 자리 올림수를 덧셈 연산하는 조합 논리회로
+<br>
+
+
+<br><img alt="스크린샷 2024-04-01 오후 7.43.27.png" src="lib/media/스크린샷-2024-04-01-오후-7.43.27.png">
+
+
+<br>
+
+
+<br><img alt="스크린샷 2024-04-01 오후 7.43.45.png" src="lib/media/스크린샷-2024-04-01-오후-7.43.45.png">
+
+
+<br>
+
+
+<br><img alt="스크린샷 2024-04-01 오후 7.44.09.png" src="lib/media/스크린샷-2024-04-01-오후-7.44.09.png">
+<br>C = AC0 + AB + BC0
+<br>S = A~B~C0 + ~A~BC0 + ABC0 + ~AB~C0
+
+<br><img alt="스크린샷 2024-04-01 오후 7.46.14.png" src="lib/media/스크린샷-2024-04-01-오후-7.46.14.png"> 
+
+
+
+
+<br>
+
+
+<br><img alt="스크린샷 2024-04-01 오후 7.47.02.png" src="lib/media/스크린샷-2024-04-01-오후-7.47.02.png">
+
+
+
+
+<br>
+
+
+<br>전가산기, 병렬로 연결
+<br>여러 비트로 이루어진 2진수의 덧셈 연산 수행
+<br><img alt="스크린샷 2024-04-01 오후 7.48.04.png" src="lib/media/스크린샷-2024-04-01-오후-7.48.04.png">
+<br>첫 carry는 0
+
+
+<br>
+
+
+<br>가산기와 보수 이용
+
+
+<br>
+
+
+<br>2진수 2개의 크기 비교하는 논리회로
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br><img alt="스크린샷 2024-04-01 오후 7.52.20.png" src="lib/media/스크린샷-2024-04-01-오후-7.52.20.png">
+<br><img alt="스크린샷 2024-04-01 오후 7.54.00.png" src="lib/media/스크린샷-2024-04-01-오후-7.54.00.png">
+
+
+<br>
+
+
+<br><img alt="스크린샷 2024-04-01 오후 7.54.20.png" src="lib/media/스크린샷-2024-04-01-오후-7.54.20.png">
+<br><img alt="스크린샷 2024-04-01 오후 7.52.39.png" src="lib/media/스크린샷-2024-04-01-오후-7.52.39.png">
+<br><img alt="스크린샷 2024-04-01 오후 7.54.41.png" src="lib/media/스크린샷-2024-04-01-오후-7.54.41.png">
+
+
+<br>
+
+
+<br><img alt="스크린샷 2024-04-01 오후 7.53.04.png" src="lib/media/스크린샷-2024-04-01-오후-7.53.04.png">
+<br><img alt="스크린샷 2024-04-01 오후 7.55.01.png" src="lib/media/스크린샷-2024-04-01-오후-7.55.01.png">
+
+
+
+
+<br>
+
+
+<br>외부에서 들어오는 임의의 신호를 부호화된 신호로 변환하여 컴퓨터 내부로 들여보내는 조합 논리회로
+<br>입력이 2의n승개가 들어오면 n개가 나가는 거
+
+<br>8개가 들어오면 3개가 나감 
+<br>입력이 2개면 출력이 1개임
+
+
+
+
+<br>
+
+
+<br>n비트의 2진 코드를 최대 2의 n제곱 가지의 정보로 바꿔주는 조합 논리회로
+<br>3이 들어오면 8로 나감
+
+
+<br>
+
+
+<br>여러 개의 입력 중 하나만 출력해 전달하는 조합 논리회로
+
+
+<br>
+
+
+<br>한꺼번에 들어온 여러 신호 중 하나를 골라 출력
+
+
+<br>
+
+
+<br>1의 유효 개수가 홀수가 되도록 만듬
+
+<br>1의 개수가 짝수면 하나 넣어줌
+<br>1의 개수가 홀수면 0
+<br>1의 개수를 홀수로 맞추는 것
+<br>1비트만 추가해서 변조 여부 확인 가능
+
+
+
+
+
+
+<br><br>
+<br>입력 신호 뿐만 아니라 이전 상태의 논리 값에 의해 출력 값 결정
+<br>조합 논리회로와 기억 소자로 구성
+<br>기억 소자가 궤한을 형성하며 연결
+]]></description><link>컴퓨터구조/week-5/note.html</link><guid isPermaLink="false">컴퓨터구조/week 5/note.md</guid><pubDate>Mon, 01 Apr 2024 11:01:26 GMT</pubDate><enclosure url="lib/media/스크린샷-2024-04-01-오후-4.37.29.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/스크린샷-2024-04-01-오후-4.37.29.png&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
