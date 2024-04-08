@@ -1,6 +1,6 @@
 {
   "vaultName": "vault",
-  "lastExport": 1712581436241,
+  "lastExport": 1712581526237,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager native-scrollbars theme-light show-inline-title",
   "useCustomHeadContent": false,
@@ -101,7 +101,6 @@
     "Computer Science/컴퓨터구조/week 5/조합 논리회로의 종류.canvas",
     "Computer Science/컴퓨터구조/week 5/Chapter 5.md",
     "Computer Science/C++/week6/함수 중복과 Static.md",
-    "not_published/2091128 김건우.md",
     "TIL/static.md",
     "TIL/The Network Adaptor could not establish the connection.md",
     "index.md",
@@ -138,681 +137,675 @@
   ],
   "fileInfo": {
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-01 오후 4.37.10.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 51200,
       "exportedPath": "assets/스크린샷 2024-04-01 오후 4.37.10.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-01 오후 4.37.29.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 42347,
       "exportedPath": "assets/스크린샷 2024-04-01 오후 4.37.29.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-01 오후 4.43.05.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 140422,
       "exportedPath": "assets/스크린샷 2024-04-01 오후 4.43.05.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-01 오후 4.43.21.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 32007,
       "exportedPath": "assets/스크린샷 2024-04-01 오후 4.43.21.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-01 오후 4.47.46.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 50567,
       "exportedPath": "assets/스크린샷 2024-04-01 오후 4.47.46.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-01 오후 5.08.29.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 98112,
       "exportedPath": "assets/스크린샷 2024-04-01 오후 5.08.29.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-01 오후 5.16.15.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 24911,
       "exportedPath": "assets/스크린샷 2024-04-01 오후 5.16.15.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-01 오후 5.19.37.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 63960,
       "exportedPath": "assets/스크린샷 2024-04-01 오후 5.19.37.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-01 오후 7.16.41.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 40381,
       "exportedPath": "assets/스크린샷 2024-04-01 오후 7.16.41.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-01 오후 7.17.26.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 55642,
       "exportedPath": "assets/스크린샷 2024-04-01 오후 7.17.26.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-01 오후 7.18.02.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 71412,
       "exportedPath": "assets/스크린샷 2024-04-01 오후 7.18.02.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-01 오후 7.18.20.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 71654,
       "exportedPath": "assets/스크린샷 2024-04-01 오후 7.18.20.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-01 오후 7.43.27.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 74497,
       "exportedPath": "assets/스크린샷 2024-04-01 오후 7.43.27.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-01 오후 7.43.45.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 41615,
       "exportedPath": "assets/스크린샷 2024-04-01 오후 7.43.45.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-01 오후 7.44.09.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 140549,
       "exportedPath": "assets/스크린샷 2024-04-01 오후 7.44.09.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-01 오후 7.46.14.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 70313,
       "exportedPath": "assets/스크린샷 2024-04-01 오후 7.46.14.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-01 오후 7.47.02.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 143959,
       "exportedPath": "assets/스크린샷 2024-04-01 오후 7.47.02.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-01 오후 7.48.04.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 85794,
       "exportedPath": "assets/스크린샷 2024-04-01 오후 7.48.04.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-01 오후 7.52.20.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 57750,
       "exportedPath": "assets/스크린샷 2024-04-01 오후 7.52.20.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-01 오후 7.52.39.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 11766,
       "exportedPath": "assets/스크린샷 2024-04-01 오후 7.52.39.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-01 오후 7.53.04.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 49108,
       "exportedPath": "assets/스크린샷 2024-04-01 오후 7.53.04.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-01 오후 7.54.00.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 111228,
       "exportedPath": "assets/스크린샷 2024-04-01 오후 7.54.00.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-01 오후 7.54.20.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 104191,
       "exportedPath": "assets/스크린샷 2024-04-01 오후 7.54.20.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-01 오후 7.54.41.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 88089,
       "exportedPath": "assets/스크린샷 2024-04-01 오후 7.54.41.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-01 오후 7.55.01.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 59743,
       "exportedPath": "assets/스크린샷 2024-04-01 오후 7.55.01.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-01 오후 11.44.17.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 32645,
       "exportedPath": "assets/스크린샷 2024-04-01 오후 11.44.17.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-01 오후 11.49.20.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 288107,
       "exportedPath": "assets/스크린샷 2024-04-01 오후 11.49.20.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-01 오후 11.57.10.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 19842,
       "exportedPath": "assets/스크린샷 2024-04-01 오후 11.57.10.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-02 오전 1.00.26.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 46250,
       "exportedPath": "assets/스크린샷 2024-04-02 오전 1.00.26.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-02 오전 1.01.27.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 163263,
       "exportedPath": "assets/스크린샷 2024-04-02 오전 1.01.27.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-02 오전 1.03.53.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 145896,
       "exportedPath": "assets/스크린샷 2024-04-02 오전 1.03.53.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-02 오전 1.07.48.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 692354,
       "exportedPath": "assets/스크린샷 2024-04-02 오전 1.07.48.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-02 오전 1.09.39.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 87268,
       "exportedPath": "assets/스크린샷 2024-04-02 오전 1.09.39.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-02 오전 1.12.30.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 228490,
       "exportedPath": "assets/스크린샷 2024-04-02 오전 1.12.30.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-02 오전 12.37.49.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 148442,
       "exportedPath": "assets/스크린샷 2024-04-02 오전 12.37.49.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-02 오전 12.53.06.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 73033,
       "exportedPath": "assets/스크린샷 2024-04-02 오전 12.53.06.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-02 오전 12.56.27.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 88782,
       "exportedPath": "assets/스크린샷 2024-04-02 오전 12.56.27.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-02 오전 12.59.19.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 85246,
       "exportedPath": "assets/스크린샷 2024-04-02 오전 12.59.19.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-02 오후 3.14.49.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 11512,
       "exportedPath": "assets/스크린샷 2024-04-02 오후 3.14.49.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-02 오후 3.15.50.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 282779,
       "exportedPath": "assets/스크린샷 2024-04-02 오후 3.15.50.png",
       "dependencies": []
     },
     "Computer Science/컴퓨터구조/week 5/조합 논리회로의 종류.canvas": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 1636,
       "exportedPath": "Computer Science/컴퓨터구조/week 5/조합 논리회로의 종류.html",
       "dependencies": []
     },
     "Computer Science/컴퓨터구조/week 5/Chapter 5.md": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 6337,
       "exportedPath": "Computer Science/컴퓨터구조/week 5/Chapter 5.html",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 26,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "assets/#2-1.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 689585,
       "exportedPath": "assets/#2-1.png",
       "dependencies": []
     },
     "assets/#2-1 1.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 689585,
       "exportedPath": "assets/#2-1 1.png",
       "dependencies": []
     },
     "assets/#2-2.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 178247,
       "exportedPath": "assets/#2-2.png",
       "dependencies": []
     },
     "assets/#2-2 1.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 178247,
       "exportedPath": "assets/#2-2 1.png",
       "dependencies": []
     },
     "assets/#2-2 2.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 178247,
       "exportedPath": "assets/#2-2 2.png",
       "dependencies": []
     },
     "assets/#2-2 3.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 178247,
       "exportedPath": "assets/#2-2 3.png",
       "dependencies": []
     },
     "assets/1-1.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 51059,
       "exportedPath": "assets/1-1.png",
       "dependencies": []
     },
     "assets/1-2.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 55842,
       "exportedPath": "assets/1-2.png",
       "dependencies": []
     },
     "assets/1-3.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 55414,
       "exportedPath": "assets/1-3.png",
       "dependencies": []
     },
     "assets/2-1.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 689585,
       "exportedPath": "assets/2-1.png",
       "dependencies": []
     },
     "assets/2-2.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 178247,
       "exportedPath": "assets/2-2.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-02 오후 5.40.56.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 2597267,
       "exportedPath": "assets/스크린샷 2024-04-02 오후 5.40.56.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-02 오후 5.41.22.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 130270,
       "exportedPath": "assets/스크린샷 2024-04-02 오후 5.41.22.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-02 오후 5.41.56.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 44558,
       "exportedPath": "assets/스크린샷 2024-04-02 오후 5.41.56.png",
       "dependencies": []
     },
     "assets/dithering_lv2.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 75303,
       "exportedPath": "assets/dithering_lv2.png",
       "dependencies": []
     },
     "assets/dithering_lv2_src.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 29961,
       "exportedPath": "assets/dithering_lv2_src.png",
       "dependencies": []
     },
     "assets/error_diffusion.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 82975,
       "exportedPath": "assets/error_diffusion.png",
       "dependencies": []
     },
     "assets/error_diffusion_src.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 238718,
       "exportedPath": "assets/error_diffusion_src.png",
       "dependencies": []
     },
     "Computer Science/영상처리/week 5/filtering.md": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 4702,
       "exportedPath": "Computer Science/영상처리/week 5/filtering.html",
       "dependencies": []
     },
     "Computer Science/영상처리/week3/dithering_advanced.md": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 814,
       "exportedPath": "Computer Science/영상처리/week3/dithering_advanced.html",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-03 오전 11.47.09.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 234376,
       "exportedPath": "assets/스크린샷 2024-04-03 오전 11.47.09.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-03 오전 11.47.24.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 224556,
       "exportedPath": "assets/스크린샷 2024-04-03 오전 11.47.24.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-03 오전 11.50.45.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 460309,
       "exportedPath": "assets/스크린샷 2024-04-03 오전 11.50.45.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-03 오전 11.56.21.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 135971,
       "exportedPath": "assets/스크린샷 2024-04-03 오전 11.56.21.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-03 오후 12.03.50.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 207386,
       "exportedPath": "assets/스크린샷 2024-04-03 오후 12.03.50.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-03 오후 12.09.42.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 159429,
       "exportedPath": "assets/스크린샷 2024-04-03 오후 12.09.42.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-03 오후 12.17.26.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 380209,
       "exportedPath": "assets/스크린샷 2024-04-03 오후 12.17.26.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-03 오후 12.19.55.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 724478,
       "exportedPath": "assets/스크린샷 2024-04-03 오후 12.19.55.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-03 오후 12.26.31.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 680573,
       "exportedPath": "assets/스크린샷 2024-04-03 오후 12.26.31.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-03 오후 12.29.16.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 55993,
       "exportedPath": "assets/스크린샷 2024-04-03 오후 12.29.16.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-03 오후 12.31.41.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 150424,
       "exportedPath": "assets/스크린샷 2024-04-03 오후 12.31.41.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-03 오후 12.38.43.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 263967,
       "exportedPath": "assets/스크린샷 2024-04-03 오후 12.38.43.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-03 오후 12.53.20.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 475659,
       "exportedPath": "assets/스크린샷 2024-04-03 오후 12.53.20.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-03 오후 12.53.53.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 456718,
       "exportedPath": "assets/스크린샷 2024-04-03 오후 12.53.53.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-08 오후 2.55.39.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 163262,
       "exportedPath": "assets/스크린샷 2024-04-08 오후 2.55.39.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-08 오후 8.37.13.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 465506,
       "exportedPath": "assets/스크린샷 2024-04-08 오후 8.37.13.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-08 오후 8.44.59.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 511298,
       "exportedPath": "assets/스크린샷 2024-04-08 오후 8.44.59.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-08 오후 8.45.32.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 214496,
       "exportedPath": "assets/스크린샷 2024-04-08 오후 8.45.32.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-08 오후 8.47.30.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 73376,
       "exportedPath": "assets/스크린샷 2024-04-08 오후 8.47.30.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-08 오후 8.47.51.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 139619,
       "exportedPath": "assets/스크린샷 2024-04-08 오후 8.47.51.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-08 오후 8.51.07.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 258513,
       "exportedPath": "assets/스크린샷 2024-04-08 오후 8.51.07.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-08 오후 9.01.58.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 547460,
       "exportedPath": "assets/스크린샷 2024-04-08 오후 9.01.58.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-08 오후 9.03.28.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 372222,
       "exportedPath": "assets/스크린샷 2024-04-08 오후 9.03.28.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-08 오후 9.11.19.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 713383,
       "exportedPath": "assets/스크린샷 2024-04-08 오후 9.11.19.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-08 오후 9.11.55.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 386981,
       "exportedPath": "assets/스크린샷 2024-04-08 오후 9.11.55.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-08 오후 9.12.36.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 592834,
       "exportedPath": "assets/스크린샷 2024-04-08 오후 9.12.36.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-08 오후 9.30.38.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 78317,
       "exportedPath": "assets/스크린샷 2024-04-08 오후 9.30.38.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-08 오후 9.42.29.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 630293,
       "exportedPath": "assets/스크린샷 2024-04-08 오후 9.42.29.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-08 오후 9.43.20.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 335066,
       "exportedPath": "assets/스크린샷 2024-04-08 오후 9.43.20.png",
       "dependencies": []
     },
     "assets/스크린샷 2024-04-08 오후 9.44.45.png": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 338240,
       "exportedPath": "assets/스크린샷 2024-04-08 오후 9.44.45.png",
       "dependencies": []
     },
     "Computer Science/영상처리/week6/영상의 기하적처리.md": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 2,
       "exportedPath": "Computer Science/영상처리/week6/영상의 기하적처리.html",
       "dependencies": []
     },
     "Computer Science/자료구조/연결리스트.md": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 6947,
       "exportedPath": "Computer Science/자료구조/연결리스트.html",
       "dependencies": []
     },
     "Computer Science/C++/week6/함수 중복과 Static.md": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 3043,
       "exportedPath": "Computer Science/C++/week6/함수 중복과 Static.html",
       "dependencies": []
     },
     "TIL/static.md": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 90,
       "exportedPath": "TIL/static.html",
       "dependencies": []
     },
     "TIL/The Network Adaptor could not establish the connection.md": {
-      "modifiedTime": 1712581436241,
+      "modifiedTime": 1712581526237,
       "sourceSize": 404,
       "exportedPath": "TIL/The Network Adaptor could not establish the connection.html",
-      "dependencies": []
-    },
-    "not_published/2091128 김건우.md": {
-      "modifiedTime": 1712581436241,
-      "sourceSize": 473,
-      "exportedPath": "not_published/2091128 김건우.html",
       "dependencies": []
     }
   }
